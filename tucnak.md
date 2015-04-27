@@ -1,3 +1,0 @@
-# Tucnak
-
-Tucnak pedestrian crossing
