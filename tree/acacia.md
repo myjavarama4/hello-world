@@ -2,7 +2,7 @@
 
 Kočka pod stromem
 Kočka ve stromě
-Kočka u strom
+Kočka u stromu
 Kočka před stromem
 Kočka za stromem
 Kočka vedle stromu
